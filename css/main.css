@@ -1,0 +1,268 @@
+
+
+/*# sourceMappingURL=main.css.map */
+.container{
+    display: flex;
+width: 1300px;
+border: 1px solid #0E0E0E;
+margin: 0  auto;
+background: #0E0E0E;
+}
+.logo__header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 150px;
+    background-color: #0E0E0E;
+}
+ .logo {
+    display: flex;
+ }
+ .logo__link{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+ }
+ .logo__nav{
+    display: flex;
+ }
+ .logo__ul {
+    display: flex;
+    text-align: center;
+    margin-left: 150px;
+ }
+ .banner{
+    width: 1330px;
+    height: 729px;
+    margin: 0 auto;
+    background-color: #0E0E0E;
+    border-radius: 5px;
+ }
+ .logo__karzinka{
+    align-items: center;
+    margin-top: 35px;
+    margin-left: 150px;
+ }
+ .logo__line{
+    width: 1110px;
+    height: 1px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    left: 200px;top: 100px;
+    text-align: center;
+    position: absolute;
+ }
+ .header{
+    color: #FFFFFF;
+    margin-top: 150px;
+    margin-left: 100px;
+ }
+ .header__text{
+    width: 650px;
+    font-size: 56px;
+height: 116px;
+ }
+ .header__main{
+    font-size: 15px;
+    width: 300px;
+ }
+ .header__buttor{
+    width: 146px;
+    height: 40px;
+    color: #FFFFFF;
+    
+background: #D87D4A;
+margin-top: 50px;
+ }
+ .header__button{
+    margin-left: 500px;
+    margin-top: -500px;
+    width: 550px;
+ }
+ .blutis{
+    display: flex;
+    margin: 0 auto;
+    margin: 250px;
+ }
+ .blutis__link{
+    
+    margin: 20px;
+    width: 300px;
+    height: 200px;
+    
+background: #F1F1F1;
+border-radius: 5px;
+margin-left: 50px;
+ }
+.blutis__img{
+    position: absolute;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: -80px;
+}
+.blutis__text{
+    position: absolute;
+    font-size: 18px;
+    margin-top: 120px;
+    margin-left: 70px;
+
+}
+.blutis__main{
+    position: absolute;
+    font-size: 13px;
+    margin-left: 120px;
+    margin-top: 170px}
+    .mask{
+       width: 1110px;
+       height: 506px;
+       background: #D87D4A;
+       margin: 0 auto;
+       border-radius: 5px;
+       margin-top: -100px;
+    }
+    .mask__text{
+        margin-left: 600px;
+        font-size: 56px;
+        width: 150px;
+        color: white;
+        margin-top: -430px;
+    }
+    .mask__img{
+        margin-top: 45px;
+    }
+    .mask__mein{
+        width: 300px;
+        color: #F1F1F1;
+        font-size: 15px;
+        margin-left: 600px;
+    }
+    .mask__button{
+        width: 146px;
+    height: 40px;
+    background-color: #0E0E0E;
+    color: #F1F1F1;
+    border: 1px solid #0E0E0E;
+    margin-left: 600px;
+    }
+    .card{
+        width: 1110px;
+        height: 320px;
+        background: #F1F1F1;
+        margin: 0 auto;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .card__text{
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .card__button{
+        width: 146px;
+        height: 40px;
+        background-color: white;
+        color: black;
+        margin-left: 170px;
+        margin-top: 200px;
+    }
+    .card2__img{
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    .consult{
+        width: 540px;
+        height: 320px;
+        background: #F1F1F1;
+        margin-left: 770px;
+margin-top: -346px;
+border-radius: 8px;
+    }
+    .card2__text{
+        position: absolute;
+        font-size: 28px;
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .card2__button{
+        width: 146px;
+        height: 40px;
+        background-color: white;
+        color: black;
+        margin-top: 200px;
+margin-left: 100px;
+    }
+    .box{
+        width: 1110px;
+        height: 588px;
+        margin: 0 auto;
+        border: 1px solid white;
+        margin-top: 100px;
+
+    }
+    .box__text{
+        margin-top: 150px;
+        margin-left: 100px;
+
+    }
+    .box__main{
+        font-size: 15px;
+        width: 400px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .box__img{
+        width: 500px;
+        margin-left: 610px;
+        margin-top: -400px;
+    }
+    .box2{
+        width: 1440px;
+height: 365px;
+background-color: black;
+margin: 0 auto;
+border-radius: 8px;
+    }
+    .box2__header{
+        position: absolute;
+        margin: 0 auto;
+        display: flex;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .box2__nav{
+        
+        justify-content: space-around;
+    }
+    .box2__ul{
+        justify-content: space-around;
+        margin-left: 500px;
+        text-decoration: none;
+    }
+    .box2__link{
+        text-decoration: none;
+        margin: 20px;
+        color: white;
+    }
+    .box2__text{
+        position: absolute;
+        color: white;
+        width: 400px;
+        margin-top: 200px;
+        margin-left: 100px;
+    }
+    .box2__main{
+        position: absolute;
+        color: #F1F1F1;
+        font-size: 15px;
+        margin-left: 100px;
+        margin-top: 300px;
+    }
+    .box3{
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 1200px;
+    }
+    .box3__img{
+        margin: 10px;
+    }
